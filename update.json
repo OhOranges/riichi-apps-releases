@@ -1,0 +1,10 @@
+{
+  "packageName": "com.riichi.ledger",
+  "versionCode": 150,
+  "versionName": "1.5.0",
+  "notes": "副露直接点牌，自动判定吃、碰、杠。四张同牌可选暗杠，点「完成」保存。\n状态栏与应用背景连贯，正文可滚动到透明手势栏后方。\n更新检查改为读取发布仓库 main 分支的 update.json。",
+  "apkUrl": "https://github.com/OhOranges/riichi-apps-releases/releases/download/v1.5.0/riichi-ledger-1.5.0.apk",
+  "backupUrl": "https://t3.znas.cn/zWyYtcpW64c",
+  "sha256": "c7b9f8cae17b0bc1eee5d4ccf6892271061bc73c40a110da84eaafb6e986512e",
+  "harmonyos": null
+}
